@@ -47,8 +47,3 @@ This repository contains an automated test suite built with [Cypress](https://ww
 - `LoginPage.js`: Page object for the login page
 - `loginData.json`: Test data for the login process
 - `utils.cy.js`: Page object for the loginPage and navigate to website 
-
-
-
-
--
