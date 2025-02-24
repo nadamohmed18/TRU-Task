@@ -18,7 +18,7 @@ This repository contains an automated test suite built with [Cypress](https://ww
 
 ## Installation
 
-1. Clone the repository for this [link](https://github.com/sahil-kumar-yadav/Automation-Task)
+1. Clone the repository for this [link](https://github.com/nadamohmed18/TRU-Task.git)
 2. Navigate to the project directory
 3. Run `npm install` to install dependencies
 4. Run `npm run cypress` to open the Cypress Test Runner
