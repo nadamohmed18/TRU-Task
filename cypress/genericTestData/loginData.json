@@ -1,0 +1,12 @@
+{
+    "correctuser": {
+      "correctemail": "standard_user",
+      "correctpassword": "secret_sauce"
+    },
+
+    "uncorrectuser": {
+      "uncorrectemail": "faild_user",
+      "uncorrectpassword": "Automationtest",
+      "errorMessageofUncorrectUser": "Epic sadface: Username and password do not match any user in this service"
+    }
+}

@@ -1,0 +1,9 @@
+  {
+    "checkoutData": {
+        "fristName": "Test",
+        "lastName" : "test",
+        "postalCode":"123456",
+        "confirmationMessageOfOrder": "Thank you for your order!"
+
+      }
+    }
